@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Gynecology and obstetrics",
+        "info": "The specialty of gynecology and obstetrics, or gynecology, includes diseases of a woman's reproductive organs from adolescence to old age. It is one of our largest specialties, and therefore we have excellent and up-to-date research and treatment opportunities for various gynecological problems, symptoms and diseases.",
+        "image": "https://image.freepik.com/free-photo/ultrasound-scanning-machine-clinic_7502-8370.jpg",
+        "services": [
+            "Pregnancy monitoring",
+            "Bleeding disorders",
+            "Birth Control"
+        ],
+        "contact": "Gynecologist",
+        "description": "Gynecologists are experts in the field. Prevention and treatment of menopausal symptoms are planned with a gynecologist. Various pains and abnormal bleeding are the most common topics for a visit to a gynecologist. Pelvic floor disorders, such as deposition and urinary incontinence, are common gynecological problems. A wide variety of things in a woman's life affect gynecological health, and the most important thing about a gynecologist's appointment today is no longer taking a Papa test or doing an internal examination. Most women do not need annual gynecological examinations. Hormone medications and various gynecological diseases or symptoms, on the other hand, may require monitoring.It is easy to talk to a familiar gynecologist about any life-related problems. The cause of gynecological symptoms such as lower abdominal pain and bleeding disorders can be determined at the reception. Therefore, during a gynecological visit, an ultrasound examination is often performed and various samples are taken . In addition, various examinations and measures can be performed during the reception visit. Gynecological surgery performed in operating theaters is also part of Terveystalo's services. So when you want help with your gynecological ailment, make an appointment with one of our qualified gynecologists!"
+    },
+    {
+        "id": 2,
+        "name": "Dental Services",
+        "info": "Our dentists are oral health professionals.",
+        "image": "https://image.freepik.com/free-photo/x-ray-teeth_1303-9353.jpg",
+        "services": [
+            "Root canal treatment",
+            "Dental Examination",
+            "Treatment of Bite"
+        ],
+        "contact": "Dental Experts",
+        "description": "In our facility, adults and children receive affordable dental care at our health centres . You can also make an appointment with a private dentist. Even if you have no pain or other symptoms, it is important to take regular dental checkups. Dental illnesses are easier to treat if discovered before any symptoms occur. Oral and dental health affect your overall health.In case of emergency, you can use municipal services even if you do not have a municipality of residence. The costs may be charged to you afterwards.When you have made an appointment with a dentist, it is important that you arrive at the dentist in good time. If you have an appointment but cannot make it, it is very important that you cancel it in good time, normally on the previous day. If you cannot make your appointment and you have not cancelled it, you will have to pay a fee."
+    },
+    {
+        "id": 3,
+        "name": "Vaccinations",
+        "info": "Vaccinations can provide long-term, often lifelong protection against disease. Depending on the disease being prevented, either one or more doses of vaccine are needed to obtain vaccination protection.",
+        "image": "https://image.freepik.com/free-photo/covid-still-life-with-vaccine_23-2149079584.jpg",
+        "services": [
+            "Covid-19 vaccine",
+            "Influenza vaccine",
+            "Punk vaccine"
+        ],
+        "description": "We offer comprehensive vaccination services. Vaccinations are given at almost all Terveystalo locations and a wide range of different vaccines is available.Vaccinations can provide long-term, often lifelong protection against disease. Depending on the disease being prevented, either one or more doses of vaccine are needed to obtain vaccination protection. In the case of vaccination and tourism counseling, as well as in the preparation and implementation of the vaccination plan, make time for the appointment of a nurse or occupational health nurse.",
+        "contact": "Specialist Nurses"
+    },
+    {
+        "id": 4,
+        "name": "Childern's Helath House",
+        "info": "In the Children's Health House, trouble like trouble is neither trouble nor nothing, because from us you will find all the specialists under one roof. We are already close to you in 18 locations. Welcome to a house where children's health is super-important.",
+        "image": "https://image.freepik.com/free-photo/my-daughter-isn-t-afraid-pay-visit-here_329181-7634.jpg",
+        "services": [
+            "Remote treatment",
+            "Disccuss with Pediatrician",
+            "Allergies and skin problem"
+        ],
+        "description": "Connect your child under the age of 12 to our websilte. You can then do business with the child at a remote reception or make an appointment with him or her online. You’ll see your child’s health information, such as visit history, vaccinations, lab test results, upcoming appointment times, and recipes right from the app. The child's health insurance makes everyday life easier. We deal with insurance smoothly, as we serve the customers of all insurance companies. As a rule, children's health insurance covers the same terms and conditions for both local and remote reception.",
+        "contatct": "Child Doctors and Pediatricians"
+    },
+    {
+        "id": 5,
+        "name": "Accident emergency services",
+        "info": "Our accident emergency service provides expert and fast assistance in the treatment of accidents, injuries and traumas. Our locations have diverse research, procedure and surgical opportunities. Plasterers have extensive experience in supportive care for fractures and injuries.",
+        "image": "https://image.freepik.com/free-vector/emergency-cardiopulmonary-resuscitation_74855-16872.jpg",
+        "services": [
+            "Duty",
+            "Emergancy investigations",
+            "Ambulance Service"
+        ],
+        "description": "Our accident emergency service handles various private, work and traffic accidents on an emergency basis, and in the event of an injury, we get the examinations and the treatment process started immediately. The services also cover rehabilitation and monitoring..The most common emergency examinations are inflammatory test (CRP), detection of angina (streptococcus A from the pharynx), urinary tract infection (urine screening test), heart film (Ekg), and blood sugar (Gluk). If necessary, the examinations can be accessed without an appointment and the results will be completed within 15-60 minutes of sampling.",
+        "contact": "Hospital Emergency Unit"
+    },
+    {
+        "id": 6,
+        "name": "Covid-19",
+        "info": "A new coronavirus identified in early 2020 is causing symptoms of a respiratory infection. Symptoms may include fever, cough, shortness of breath, muscle aches, fatigue, runny nose, nausea, or diarrhea. ",
+        "image": "https://image.freepik.com/free-photo/covid-19-vaccine-injection-glass-bottle-with-syringe_53876-96861.jpg",
+        "services": [
+            "Flu clinic reception",
+            "Covid test sampling",
+            "Rapid test for coronavirus"
+        ],
+        "description": "We offer corona-related services to individuals, companies and the public sector. We speed up the detection of coronavirus infections by testing all over Finland in order to stop the chains of infection, trace those exposed and slow down the large-scale spread of the virus. Corona test points are plentiful and the test result is often completed within a few hours of sampling. The test always requires a referral, which you can easily get from My Health. You can do business remotely with most of our experts. Do business now or make an appointment. We treat patients with respiratory symptoms at our Flu Clinics as well as remotely.",
+        "contact": "Covid-19 Unit"
+    }
+]
